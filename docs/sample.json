@@ -1,9 +1,4 @@
 {
   "title": "샘플용",
-  "description": "
-    내용을 여기에 작성합니다.
-    <br> 줄바꿈은 br태그를 사용합니다.
-    <hr> 줄을 긋고 싶을 때는 hr태그를 사용합니다.
-    <a href=https://naver.com>네이버</a> 링크를 걸고 싶다면 a태그를 사용합니다.
-  "
+  "description": "내용을 여기에 작성합니다. <br> 줄바꿈은 br태그를 사용합니다. <hr> 줄을 긋고 싶을 때는 hr태그를 사용합니다.<a href=https://naver.com>네이버</a> 링크를 걸고 싶다면 a태그를 사용합니다."
 }
